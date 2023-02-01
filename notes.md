@@ -33,3 +33,11 @@ You will end up late and some other language that is small will take your place"
 "Names matter. Strive for intelligibility, consistency, and symmetry. Every API is a little language, and people must learn to read and write it. If you get an API right, code will read like prose"
 
 "API design is an art, not a science. Strive for beauty, and trust your gut. Do not adhere slavishly to the above heuristics, but violate them only infrequently and with good reason."
+
+[Verou, 2014]
+
+Black() is the most intuitve for me 
+
+TIGT: "If we do end up with gray(), will grey() be an alias?"
+
+
