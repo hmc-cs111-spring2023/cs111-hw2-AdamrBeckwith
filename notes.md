@@ -24,3 +24,12 @@ You will end up late and some other language that is small will take your place"
 "Every piece of software we use was written by other people, slaving away over thousands of lines of code. Why shouldn’t those “interfaces” be as humanely designed as the ones we tap and swipe?"
 
 
+[Bloch, 2006]
+
+"All programmers are API designers." 
+
+"You can't please everyone so aim to displease everyone equally."
+
+"Names matter. Strive for intelligibility, consistency, and symmetry. Every API is a little language, and people must learn to read and write it. If you get an API right, code will read like prose"
+
+"API design is an art, not a science. Strive for beauty, and trust your gut. Do not adhere slavishly to the above heuristics, but violate them only infrequently and with good reason."
