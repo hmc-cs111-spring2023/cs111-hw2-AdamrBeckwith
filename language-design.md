@@ -103,4 +103,10 @@ you do so? If not, why not?
 
 **Response**
 
+I dont think they are in conflict. Its a tradeoff, People 100% prefer natural language, but if it becomes difficult to troubleshoot or easy to make errors with, the actual results will be that people prefer whats intuitive. 
+Intuitive doesnt mean intuitive via natural language. I mean that its the easiest code from start to finish. Natural language is important for actually solving and implementing the problem, and debugability is necessary for dealing with the necessities of computers. 
+
+I think natural language should be used more often then not. Although consisten structural throughlines for simplicity is necessary. I don't need ez loops, but simple and **easy to remember** loops are much much nicer. Fight for rememberability rather then natural language acceptibilty.
+
+
 ---
